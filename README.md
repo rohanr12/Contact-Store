@@ -1,9 +1,9 @@
-#Command Line Appliction to store contacts
+# Command Line Appliction to store contacts
 
 * Made using Nodejs and Commander
 * Uses MongoDB as database and Mongoose as ODM.
 
-###To do:
+### To do:
 
 * Add interactivity
 * Better presentation
